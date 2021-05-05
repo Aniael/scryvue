@@ -1,8 +1,8 @@
 # scryweb
 
-> yes i used a fucken vue template go laugh at me now go do it go 
+> wait what this isn't blender
 
-> is this actually how these work lmao?
+> how
 
 ## Build Setup
 
