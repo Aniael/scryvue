@@ -12,7 +12,7 @@ export default {
 
 <style>
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: 'HYPE', 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -23,4 +23,10 @@ export default {
   min-height: 100vh;
 }
 
+</style>
+
+<style>
+@font-face {
+  font-family: "hype";
+  src: local("HYPE"),   url(./fonts/HYPE.ttf) format("truetype");}
 </style>
