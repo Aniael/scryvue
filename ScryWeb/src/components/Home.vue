@@ -6,6 +6,10 @@
 
         <div class="row pb-5">
           <div class="col-lg-3">
+            <div class="text-center mb-3">
+              <h1 id="text1">ay</h1>
+
+            </div>
           </div>
 
           <div class="col-lg-6">
@@ -50,5 +54,9 @@ export default {
 
 #logo {
   max-height: 50vh;
+}
+
+#text1 {
+  color: white;
 }
 </style>
