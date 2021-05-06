@@ -7,13 +7,13 @@
         <div class="row pb-5">
           <div class="col-lg-3">
             <div class="text-center mb-3">
-              <h1 id="text1">ay</h1>
+              <h1 id="text1">scryweb</h1>
 
             </div>
           </div>
 
           <div class="col-lg-6">
-            <img id="logo" src="../assets/lclogo.png" class="img-fluig">
+            <img id="logo" src="../assets/scrylogo.png" class="img-fluig">
           </div>
 
           <div class="col-lg-3">
@@ -45,7 +45,7 @@ export default {
 <style scoped>
   #main {
     background-color: rgb(117, 28, 219);
-    background: url('../assets/bg_trees.png') no-repeat center center;
+    background: url('../assets/bg_uh.png') no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
