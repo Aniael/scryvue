@@ -1,5 +1,7 @@
 # scryweb
 
+![ScryBanner](https://github.com/Aniael/scryvue/blob/master/ScryWeb/src/assets/scrybanner.png)
+
 > wait what this isn't blender
 
 > how
