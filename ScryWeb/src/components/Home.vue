@@ -7,7 +7,7 @@
         <div class="row pb-5">
           <div class="col-lg-3">
             <div class="text-center mb-3">
-              <h1 id="text1">scryweb</h1>
+              <h1 id="text1">scryweb but 1 year</h1>
 
             </div>
           </div>
@@ -19,6 +19,7 @@
           <div class="col-lg-3">
 
           </div>
+          <h2 id="text1">my balls hurt</h2>
 
           </div>
 
